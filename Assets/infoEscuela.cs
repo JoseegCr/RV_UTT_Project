@@ -10,6 +10,6 @@ public class infoEscuela : MonoBehaviour
     }
 
     public void info(){
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(4);
     }
 }

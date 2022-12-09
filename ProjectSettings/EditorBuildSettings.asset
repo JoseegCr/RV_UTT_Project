@@ -17,4 +17,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InfoE.unity
     guid: 85bd5068ff04e1e4b9739146b251d6ce
+  - enabled: 1
+    path: Assets/Scenes/InfoEscuela.unity
+    guid: 1a2fabf83ae30334cbb87017ddbe3464
+  - enabled: 1
+    path: Assets/Scenes/InteriorP.unity
+    guid: 6d000fb072b8272448a02f4230689359
+  - enabled: 1
+    path: Assets/Scenes/segundaPlantaP.unity
+    guid: 23711a1006d098c439cee64fe88ad659
+  - enabled: 1
+    path: Assets/Scenes/PuntoSeguro.unity
+    guid: 483a67a90750cc34995e715b2e8d85f4
   m_configObjects: {}
